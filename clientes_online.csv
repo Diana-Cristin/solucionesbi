@@ -1,0 +1,490 @@
+ID_Cliente,Nombre_Cliente,Edad,Ciudad,Dirección,Región,Teléfono,Categoría_Cliente
+af1ad3f8-e466-433a-b863-a2f276c73ac1,Luis Ángel Salom Cortes,33,Vizcaya,"Pasadizo Jose Miguel Aranda 137 Puerta 3 
+Ciudad, 09412",Cajamarca,+34 724 08 68 11,C
+94391a91-6394-453e-9992-891ba63570f8,Ani del Bosch,54,Baleares,"Plaza de Teodosio Crespo 922
+Córdoba, 69453",Madre de Dios,+34739 227 216,D
+03ef1528-697d-40a6-838b-90866028b13b,Pánfilo Castilla Pascual,45,Alicante,"Acceso de Matías Aroca 92 Apt. 13 
+Barcelona, 46459",Piura,+34 874 29 20 48,C
+d77c675f-c425-4cb0-85c4-fa8d6e0410f1,Candelaria Barrios Salvà,55,Ourense,"Alameda Virginia López 63
+León, 96414",Ayacucho,+34674 06 26 51,D
+8a5195ab-5cc6-4960-8c81-ff524a37880c,Ramiro Vélez Soriano,48,Santa Cruz de Tenerife,"Pasaje de Ágata Atienza 217
+Ávila, 06922",Arequipa,+34 731996171,A
+2979ab96-bd34-4107-b8f1-08957c614309,Carina Puga Navarrete,28,Cádiz,"Paseo de Berta Molina 626 Piso 8 
+Santa Cruz de Tenerife, 30327",Puno,+34724133500,B
+f64d643e-7b55-45b5-9d76-9348b6230eaa,Odalis Maza Nicolás,40,Ceuta,"Via José Manuel Cañete 2 Piso 3 
+Ourense, 01763",Huancavelica,+34830672882,A
+7589bdfd-31d9-40c1-8df6-3adc948a31f7,Esmeralda Beltran Iborra,42,Cuenca,"Acceso de Luis Miguel Barrios 9 Apt. 12 
+Cuenca, 29440",Huancavelica,+34643424113,D
+3926d1c6-aede-41cf-b260-9b8268508949,Alberto Llanos-Albero,36,Cantabria,"Calle Héctor Carreño 87
+La Coruña, 90251",Ayacucho,+34 629 83 97 50,B
+e80af883-bf90-4a7d-b159-b083ac161664,Adelaida Vila Piñeiro,30,Teruel,"Avenida Sabas Viñas 9 Apt. 96 
+Toledo, 78937",Huancavelica,+34719 097 858,A
+b58a624f-c1b0-4aa2-aa22-496efb9b41a1,Almudena del Gimeno,28,Cuenca,"Calle Sandalio Piñol 324 Apt. 08 
+Málaga, 39953",San Martín,+34 719188775,B
+223b117a-0ac6-43f8-ab29-320bbb150640,Anna Marín Aguado,48,Zamora,"Pasadizo José Manuel Garzón 25 Puerta 9 
+Asturias, 31561",Apurímac,+34 740 404 461,C
+7d300bc2-f615-453b-bcc5-6f6bf2b0ff83,Isaac Amaro Fabregat Checa,30,Toledo,"Callejón Toribio Blanca 881
+Ávila, 65859",Ica,+34803 793 783,D
+58442ccc-1d40-4fe1-a3ac-c13b61cded5c,Azucena Sedano-Cobo,20,Asturias,"Calle Encarnacion Luján 26 Apt. 18 
+Málaga, 04273",Ayacucho,+34 639 612 761,B
+63f8c903-8d89-4f7f-b200-e6b5848904aa,Emilio del Pereira,34,Castellón,"Alameda Marcial Lamas 49
+Ciudad, 88635",Ayacucho,+34 740317889,A
+d24115d2-bbf7-4530-9ca0-1fe39900439e,Marino Heras Requena,37,Córdoba,"Alameda de Martirio Calvo 4
+Álava, 87332",Ica,+34744 268 134,D
+67d5806c-fe7b-4c87-a479-7b38a039534b,Dionisio Muro Mancebo,35,Las Palmas,"Avenida de Fortunata Quintana 502
+Málaga, 13285",Huánuco,+34 990076554,B
+34f77337-52a7-40ff-a9fa-27ceb7334f61,Paloma Torrent Salvà,32,Badajoz,"C. Roberto Duarte 39
+Sevilla, 92828",Moquegua,+34707 432 078,B
+f0d605d7-5f2d-4189-90c4-65d660c0d6fd,Virginia Menendez Quintero,60,Castellón,"Paseo Crescencia Burgos 94
+Melilla, 21208",Junín,+34726 88 95 86,A
+99264306-87c5-4eea-af06-90e191034284,Custodia Terrón Pedrero,29,Sevilla,"Cañada de Estrella Pozo 84
+Santa Cruz de Tenerife, 99324",Lima,+34726 139 355,D
+eadad61f-91d4-4f86-8360-a80c0c5bf243,Susanita Catalina Mateu Boada,41,Tarragona,"Rambla Isidoro Izquierdo 462 Puerta 3 
+Navarra, 06358",Puno,+34813 31 93 31,B
+9cf1c387-23cf-4ea6-b455-d58addce83bb,Aurora Peñalver-Manso,43,Guipúzcoa,"Camino Plinio Bravo 63 Puerta 7 
+Badajoz, 41947",Áncash,+34 720 782 155,B
+690086d5-a617-4e10-9efb-da8598e3c148,Jose Carlos Llorente Berrocal,23,Ourense,"Camino Azucena Villaverde 68 Puerta 4 
+Salamanca, 32336",Tumbes,+34 719 90 29 16,C
+a3e9f111-6be9-4767-b886-02b05da02af7,Toño Alberola Mate,55,Álava,"Vial de Sebastián Bernad 65
+Almería, 95281",Ayacucho,+34743 94 16 46,B
+9cd5eecf-014a-4727-8aab-7b694089c6e3,Laura Carrasco Posada,53,Vizcaya,"Camino de Delia Solé 24
+Salamanca, 68631",Huancavelica,+34729690481,A
+d0e460c1-b36d-45a5-9e26-5116bf40e160,América Valenzuela Nicolás,19,Asturias,"Rambla de Severino Guardiola 90 Piso 1 
+Asturias, 62648",Loreto,+34 706011928,C
+4873bfd6-0b8e-4bd8-a2f4-603d0176e1a5,Marcos Fonseca,34,Baleares,"Plaza José Ángel Villena 66
+Málaga, 83007",Tumbes,+34 995481683,D
+cdb8fd80-3aa2-4823-bdee-73d50a417b68,Fermín Alvarez Donaire,23,Almería,"Camino Melchor Miguel 36 Puerta 2 
+Santa Cruz de Tenerife, 45894",Pasco,+34 989 44 98 96,A
+5b896c5a-f919-42c7-bf76-c69c0b48149e,Evaristo Salmerón Lloret,23,Barcelona,"Pasaje de Juan Carlos Osuna 53 Puerta 3 
+Almería, 97025",Huánuco,+34 957260160,C
+f4979fb4-8768-431c-a1f7-50cbee1db345,León Geraldo Asenjo Costa,28,Segovia,"Cuesta de Jacobo Salcedo 15 Piso 7 
+Valencia, 53614",Ayacucho,+34 717 853 239,A
+77c417c4-222f-4be8-9cc7-fbed2c602d4a,Germán Sobrino Enríquez,42,Ávila,"Ronda de Olga Fortuny 93
+Córdoba, 28927",San Martín,+34841671196,C
+3137354b-d177-43df-892c-6c03a7d6054c,Dionisio Ezequiel Pinedo Arnaiz,24,Melilla,"Acceso Florencia Morell 94
+La Rioja, 76196",Puno,+34 727256750,B
+34c75fc0-25fb-4d40-b735-80ad6552075e,Rómulo Sedano Olivé,45,Cuenca,"Cuesta Sabas Acedo 80
+Castellón, 97146",Tacna,+34667 223 574,C
+d88d40cb-02e7-4d3f-9aa2-4ca7d210fe74,Jerónimo Hierro,47,Valladolid,"C. de Teo Rebollo 81 Apt. 78 
+Navarra, 81650",Tacna,+34 679 82 34 60,A
+70add460-655b-47ed-81ca-b98c01ee66cc,Araceli de Torrecilla,42,Zamora,"Cañada Nieves Simó 98 Puerta 5 
+Tarragona, 46127",Arequipa,+34 715199450,C
+4288bf66-c4cd-45a4-b899-75d45ea1689e,Lucas Ariza Romeu,45,Guipúzcoa,"Acceso Espiridión Pedrero 93
+Segovia, 68375",Ica,+34 709508893,B
+0126dbca-00a7-41b8-9708-91c13581654d,Teófilo Granados Oliva,32,Valladolid,"Callejón Camila Oliveras 135
+Las Palmas, 38998",La Libertad,+34 741 268 621,A
+0e75adac-137c-41e5-817e-675d8027f403,Ofelia Múñiz-Jara,34,Valladolid,"Calle de Maristela Burgos 5 Piso 4 
+Toledo, 28923",Cajamarca,+34744 537 193,D
+dc114cc3-75f2-42b5-9019-e3c919c8fed2,Jimena Gallo-Mercader,50,Lleida,"Callejón de Paulino Vilalta 30 Puerta 8 
+Soria, 04437",Amazonas,+34627 933 913,A
+ccb4d6f3-2564-4ce4-881a-f4da1e9e5a2e,Caridad Luís-Ríos,49,Álava,"Alameda de Saturnina Ros 708 Apt. 93 
+Guadalajara, 14186",Cusco,+34704 739 035,B
+cb9dad14-e22d-4c86-8f0d-8b2d972a1d6b,Lucila Martin-Español,27,Guadalajara,"Plaza Dionisio Mosquera 3
+Cádiz, 32577",Arequipa,+34 810 806 063,B
+1797eaad-d513-4e17-8938-812c673c560b,Timoteo Ríos-Barrios,18,Jaén,"Rambla Mauricio Muñoz 72 Apt. 25 
+Ourense, 53133",San Martín,+34738120619,C
+ccb8d04d-043d-47eb-9b0f-8dcca2730333,Eustaquio Jesús Hervás Chaves,18,Barcelona,"Alameda de Adelaida Zapata 53 Puerta 6 
+Melilla, 43686",Lambayeque,+34669186188,D
+d36346b1-8d72-47e3-a531-3e83423194fd,Susana Alcaraz Garmendia,58,Lleida,"Vial Macario Galan 21 Piso 0 
+León, 77555",San Martín,+34 725 365 116,B
+a63d8779-31a3-4b8d-8621-64088115ae7f,María Teresa Linares Ocaña,53,Cáceres,"Glorieta de Feliciano Alsina 85 Apt. 83 
+Navarra, 39104",Ucayali,+34 721 099 871,D
+1bb83007-ed17-4e7a-8129-f246b37779aa,Reyes Chus Heredia Ibáñez,53,Badajoz,"Rambla de Ámbar Verdugo 62 Apt. 55 
+Valencia, 51957",Cajamarca,+34 724 10 16 33,A
+65314c8f-01fc-49d2-969f-d0eaf0877048,Régulo Jove Nevado,44,Melilla,"Vial de Juan Pablo Plaza 113 Piso 5 
+Jaén, 73448",Madre de Dios,+34620701117,A
+9fca3548-7333-41e4-b6e7-2416a82a9a42,Nacio Barceló Parejo,49,Navarra,"Pasaje de Nicanor Ordóñez 6
+Madrid, 91250",Junín,+34722 700 632,B
+0c3e0c4d-4afa-40fe-bf22-d236ba7f4efc,Xavier de Carrasco,21,Guadalajara,"Glorieta de Estefanía Calleja 55 Piso 3 
+Albacete, 80038",Junín,+34716 566 947,B
+6d12b52c-6452-4358-9ec0-ed708d23a920,Esperanza Sotelo Estrada,54,Tarragona,"Paseo de Merche Barón 82
+Málaga, 05806",Huancavelica,+34705 41 85 18,C
+ef966117-7fb2-489d-85c2-f87bcb655999,Marco Company Bayo,22,Badajoz,"Cañada de Elba Cuervo 64 Piso 9 
+Huesca, 66113",La Libertad,+34722534141,A
+60733463-ab92-4b77-8a0c-6fdfd85500ee,Perla Durán Perea,57,Baleares,"C. Ulises Vázquez 6 Apt. 17 
+Cádiz, 87693",Lima,+34 618983015,C
+fbce4086-6972-4b4a-9b5a-4b7110083d6a,Andrés Felipe Abascal Agudo,49,La Rioja,"Ronda Mar Castell 613 Apt. 24 
+Córdoba, 49348",Pasco,+34 712 38 98 65,A
+ff8e8eb5-6b6f-4da9-946a-5816451517df,Valentín Torralba Corbacho,24,Córdoba,"Cañada Eleuterio Cases 244
+Melilla, 40836",Ucayali,+34 727 45 74 73,C
+b5e5fd1a-9bea-43fd-8602-23fa8c5861c6,Primitivo Bravo Borrás,50,León,"Acceso de Román Patiño 16
+Badajoz, 52628",Áncash,+34997101527,D
+e8de6b6b-f693-4506-9865-c5068b8abc31,Régulo Amaya Ricart,58,Murcia,"C. Pelayo Alberto 5 Apt. 17 
+Salamanca, 07523",Apurímac,+34 973903017,C
+8634035b-2e5c-4844-9836-319285ce031d,Julio Ródenas Carretero,41,Melilla,"Cañada de Teresita Rios 888 Puerta 5 
+Málaga, 26183",Áncash,+34 721 768 726,D
+ca16edb7-1f1d-45c1-8c91-2c4e7945d652,Noelia Madrigal Zurita,33,Murcia,"Pasaje de Rómulo Artigas 69 Puerta 8 
+Cáceres, 28999",Amazonas,+34 715 568 932,C
+d8b5947c-f5e0-4766-955a-a4706b6737d9,Goyo Santamaría Montoya,29,Murcia,"C. Ramona Guzmán 97
+Baleares, 70880",Arequipa,+34710 95 30 86,A
+e21eb005-d504-4c70-b5c6-6a46e27a0ca1,Bernardo del Narváez,50,Melilla,"Plaza Jorge Blanch 96 Piso 3 
+Málaga, 07747",La Libertad,+34 742 759 954,B
+e0ef3b82-e73f-41c1-8adf-c44a79a444ed,Josefa Tamayo Ávila,39,Girona,,Tumbes,+34 927 64 01 41,D
+63575e8b-0237-4fb9-83b1-6ab4f2e6c7f0,Sancho Benitez Sanchez,19,Zaragoza,"Paseo Julio César Peña 50
+Huesca, 77920",Tumbes,+34977920844,A
+d81b35aa-3896-4c42-9f07-c4d1cfd0303c,Carmela Ribes Ferreras,29,Huelva,"Alameda Luis Ángel Alarcón 469
+Valladolid, 60954",Apurímac,+34 609 66 77 06,B
+0e8ef4be-5109-441e-b0f6-b627621e7244,Vinicio Anaya Ropero,24,Guipúzcoa,,Ucayali,+34 724 215 597,A
+976f1fc5-2a9f-4f13-8f0b-7fdf3081a27e,Jose Angel Esteban Acosta,56,Baleares,"Acceso Luciana Martí 78
+León, 19517",Ica,+34708411291,D
+6e3513b2-e964-4e46-be1d-6a38a14df7f0,Guadalupe Sales Bárcena,28,Asturias,"Acceso Paula Campoy 21 Piso 4 
+Navarra, 71233",Moquegua,+34712 333 659,C
+0b19631b-be3a-4145-a5d9-011c00dc5bea,Luisina María Carmen Merino Arregui,49,Burgos,"Plaza Vanesa Marco 49
+Granada, 21863",Apurímac,+34 737 471 340,A
+6e38ec00-81d2-4cf0-be72-a2298d7a8694,Aristides Guardiola Mate,22,Ourense,"Plaza de Isabel Prat 1
+Badajoz, 80974",Áncash,,C
+6bdf3275-5700-4230-b31b-2dada7dc1e24,Matilde Aguirre-Cárdenas,21,Ourense,"Vial Ana Verdejo 28
+Vizcaya, 86512",Ayacucho,+34 720110908,B
+413cabbb-c84b-452b-843a-2ba61882e4ee,Elisabet Bravo-Díaz,60,Melilla,"Plaza de Socorro Gallardo 93 Piso 6 
+Cuenca, 76019",Apurímac,+34731 566 825,A
+5129ce04-f4ca-40f5-b8e0-8e44b8942110,Eusebia Baños Tamayo,21,Barcelona,"Urbanización Noé Lozano 100 Piso 4 
+Melilla, 05185",Madre de Dios,+34894 688 988,D
+682cb114-53fc-4d92-a9c1-36627da59fef,Lilia Quintero Campillo,35,Girona,"Plaza de Poncio Bellido 9
+Pontevedra, 20514",Madre de Dios,+34608 69 26 38,C
+65fc94fe-71d5-4564-8315-ff6544db7591,Adán de Cuadrado,25,Valencia,"Glorieta de Benigna Villar 91 Puerta 3 
+Lugo, 75527",Junín,+34 886 191 694,B
+336df1d0-2356-4638-8da0-2af1c34ce7bb,Fausto Crespi-Coello,20,Álava,"Cuesta Reina Roma 23 Puerta 8 
+Girona, 22786",La Libertad,+34728 00 56 83,A
+785c1262-afae-4949-bd6b-b11ff3338b84,Viviana Vaquero Cifuentes,28,Asturias,,Arequipa,+34903 92 70 91,A
+58a5080c-ebd6-4838-8673-622563dd58cf,Joaquina Chaves-Prada,22,Ourense,"C. Américo Burgos 93
+Barcelona, 04992",Madre de Dios,+34611514861,D
+5a0c88b6-b184-4849-a075-9edfb1b6aa6a,Loida Iborra-Carrasco,42,Burgos,"Pasaje de Nicodemo Soler 47
+Valladolid, 29249",Áncash,+34 989 68 44 43,B
+13368db1-3543-433b-9e7c-1d3ca09482d1,Sarita Samanta Sans Requena,23,Palencia,"Urbanización de Margarita Rovira 56 Puerta 0 
+Cuenca, 90227",Ucayali,+34801 376 930,B
+14f220f2-5237-4193-b954-859f31bb010d,Edu Rey Sala,31,Las Palmas,"Paseo de Amando Castañeda 319
+Málaga, 20531",Tacna,+34746 321 429,A
+ebec38c8-d341-480f-8d7d-c9224db13385,Domingo Herminio Barreda Araujo,18,Lleida,"C. de Amada Robledo 46
+Guadalajara, 10481",Tumbes,+34 715 703 137,A
+e1c11add-15d3-4c46-9c62-6133a3ab1596,Iris Vicens Puig,45,Sevilla,"Urbanización Desiderio Belmonte 969 Apt. 50 
+Toledo, 98875",San Martín,+34 981 352 019,A
+a57d9fff-b3a6-48a3-967b-d23436632d40,Agapito Polo Ruano,46,Baleares,"Via Glauco Salom 773 Piso 1 
+Girona, 00564",Ucayali,+34712359248,D
+925a6d39-661f-4939-8c4a-85487e1b6959,Lupe Correa Luque,43,Ourense,"Pasaje de Aarón Acedo 3 Apt. 35 
+León, 17878",La Libertad,+34747 662 424,B
+34c10542-68b5-4fb5-a8a7-7fb8b38d2882,Nuria Barco-Bonilla,46,Navarra,"Urbanización Adoración Ruano 30
+Segovia, 31449",Arequipa,+34872 647 477,C
+334df2f4-ba60-45ff-9083-83922427ff6c,Moisés Bayona Escobar,18,La Coruña,"Cuesta de Rosenda Fortuny 1 Piso 0 
+Granada, 34855",Huancavelica,+34928 82 55 76,C
+fa908e90-955f-4835-96ff-d7e0029b6c65,Lorenza Rita Aguiló Pinto,36,Ciudad,"Avenida María Luisa Riquelme 41 Apt. 46 
+Toledo, 22030",San Martín,+34 715 48 07 80,A
+c99963f8-a0ac-4c94-9533-fc9fd3172471,Edelmiro de Salmerón,55,Santa Cruz de Tenerife,"Acceso de Yolanda Busquets 51 Piso 4 
+Melilla, 64377",Piura,+34 748 021 157,C
+859d5b63-ec4c-426a-9d79-2b132f6f1a5b,Dulce Pomares Muro,41,Segovia,"Urbanización de Rafaela Pina 7 Puerta 9 
+Toledo, 98478",Puno,+34 729 339 728,A
+2bb8278b-1498-4c22-aa14-30f705a045f8,Trinidad Amorós Guerra,55,Ciudad,"Pasaje de María Carmen Barón 861
+Córdoba, 92437",Moquegua,+34882 57 82 43,D
+1a9409ce-9fee-42b6-89df-c2aed6bfca98,Valeria Roura Durán,48,Guadalajara,"Alameda Marcial Angulo 69 Apt. 16 
+Lleida, 18089",Callao,+34712 66 83 71,D
+a5f32b41-ebcb-4913-b561-4bd8cbbc481b,Pánfilo Villegas Cordero,30,Jaén,"Urbanización Manuela Cal 21 Piso 4 
+Salamanca, 47048",La Libertad,+34711 75 88 04,D
+48915097-406c-4e2f-ba32-78804e492135,Guadalupe Salinas-Polo,27,Pontevedra,"Via de Abril Cadenas 65
+Guipúzcoa, 81261",Arequipa,+34846706379,B
+88954ddf-e678-4bd8-986b-2bb761fae680,Marcelo del Verdugo,54,Las Palmas,"Callejón Onofre Lladó 49
+Ciudad, 78154",Tumbes,+34 844832344,C
+f849cefe-edc9-4634-bd5a-65adcb886e1e,Andrés Felipe Blanes Carballo,41,Asturias,"Cuesta de Pascuala Teruel 94 Apt. 07 
+Ceuta, 12236",Lima,+34827 71 49 89,A
+87db18c9-612a-41aa-8462-0e67f831f0e4,Corona Cazorla Ayala,45,Almería,"Rambla Pánfilo Méndez 2
+Tarragona, 21199",Loreto,+34 726 014 994,D
+759820be-ade8-4faa-ba33-d9d2eddc95f7,Sarita Chico Sebastián,52,Vizcaya,"Urbanización Saturnina Cobos 8
+Asturias, 89387",Loreto,+34 701673400,C
+5af06233-2544-4e44-94f4-bdd80355d704,Carlito Bermudez Fuente,54,Guadalajara,"Pasadizo Iker Vallés 71
+Granada, 04735",Apurímac,+34 624 631 525,D
+9011da69-0106-48d1-b613-6c9782e711fd,Raimundo Figueras Porta,35,Melilla,"Vial de Visitación Gras 407 Piso 8 
+La Rioja, 12192",Apurímac,+34 743 30 61 83,B
+3aad1005-ad97-49a1-b872-aa2f3a8f196e,Rosario Ariño Anaya,58,Asturias,"Glorieta de Francisco Sedano 868
+Tarragona, 86349",Piura,+34 657 430 794,B
+fc3c13a6-e2e9-4b97-a523-fc5b88b26f5c,Salomé Jover Ferreras,36,Guipúzcoa,"Plaza Victorino Tejero 307 Puerta 8 
+Ciudad, 74788",La Libertad,+34801227601,D
+65fd1948-f3ab-42e3-90dc-7d04082a4dee,Azeneth Rocha Pujol,27,Tarragona,"Via Victor Almansa 67
+Valladolid, 33380",Moquegua,+34806 71 23 35,D
+628e9bcc-0332-4410-b603-30dcc818fe20,León Jurado Castilla,45,Sevilla,"Paseo Prudencio Quintanilla 9 Puerta 5 
+Cantabria, 96979",Cajamarca,+34717 47 26 35,C
+552849b1-cbd9-4fa7-91ec-50346e692b6a,Adelina Almansa Amor,18,Sevilla,"Calle de Patricio Álvarez 751
+La Rioja, 73806",San Martín,,C
+9836fca5-bfbe-402c-a7f9-e8ad7743f606,Aurelio Solano Luna,57,Santa Cruz de Tenerife,"Calle de Chelo Mir 11 Apt. 67 
+Navarra, 47860",Tacna,+34619 21 57 54,C
+c0d7750a-d938-4697-ae99-bdd84c5c5b17,Paco Terrón Ramírez,28,Teruel,"Acceso de Jordi Pavón 37
+Soria, 31470",Pasco,+34 708 994 287,C
+62d3b313-0b59-4b9e-bc9e-052e3145b736,Juan Bautista Tamayo Bermúdez,21,Toledo,"Acceso Jeremías Ripoll 81 Apt. 29 
+Málaga, 29389",Madre de Dios,+34643 31 09 86,D
+8eea780d-6460-4a66-be66-7bda06d59ac1,José Almansa Torres,57,Ávila,"Camino Inocencio Barco 966
+Badajoz, 91987",Piura,+34707340535,B
+06350878-cdc8-4abe-bed5-5a93aa28995a,Bernabé Coca Flor,26,Salamanca,"Urbanización de Pablo Aguilera 602 Puerta 7 
+Valencia, 69645",Huancavelica,+34 812012143,C
+71c6514d-550a-45d9-88cd-aa04ee6c21c0,Victorino Nicolás Barba,31,Castellón,"Cuesta de Ruperta Llanos 10
+Las Palmas, 24898",Amazonas,+34704 478 972,D
+394a1ace-7a65-467c-acb0-c3f912296893,Melisa Osuna,36,Albacete,"Ronda de Ruperto Gomis 3 Apt. 68 
+Cantabria, 59516",Madre de Dios,+34 744571262,D
+52a75d3b-b140-4459-857f-ae363b2fe378,Herminio Díaz Aznar,60,La Coruña,"Glorieta Adora Azorin 48 Puerta 4 
+Jaén, 86819",Piura,+34726 400 018,B
+3582352b-2092-4c9a-ae1d-0dd871ba2e97,Leire Jesusa Nogués Gonzalo,21,Albacete,"C. Dimas Gargallo 76
+Zamora, 89224",Ica,+34700751557,C
+6c58b22d-c5fe-4cd8-b2ac-a084e0e9999d,Encarnita Luna Barrios,32,Baleares,"Cuesta de Pepe Santamaría 94 Apt. 80 
+Zaragoza, 14009",Huánuco,+34986 38 03 62,A
+f063784d-f7c0-466d-9420-46d65e859bc9,Alfonso de Aranda,19,Valencia,"Pasaje de Vilma Alsina 72 Puerta 2 
+Badajoz, 50780",Áncash,+34641 911 351,B
+4d34b8f3-7fdb-4a22-8a71-c368b624f41e,Clementina Nevado,24,Salamanca,"Paseo de Nicolás Toro 19 Puerta 5 
+Huesca, 90737",Tumbes,+34701 70 77 86,A
+92ac382b-f0ee-4a6c-9aab-47ce5fa10542,Mario Llobet Roselló,50,Zamora,"Cañada Carlos Camps 25 Apt. 65 
+Cádiz, 18966",Ucayali,+34 713 49 02 75,A
+762ad786-34d9-47d1-a671-0e1f8eaef5fc,Blanca Villanueva Malo,28,Girona,,Pasco,,B
+b04f3919-3c36-43ae-8e85-564bded99be2,Maxi Conesa Fuentes,22,Guadalajara,"Avenida Plácido Vall 23
+Badajoz, 00409",Pasco,+34733509807,C
+195761cc-f562-4245-9aac-a9867e71cce5,Calixto Cortes Reguera,49,Huelva,"Cuesta Juan Pablo Molina 29 Apt. 04 
+Murcia, 82083",Cusco,+34811 67 67 41,B
+bc4e5671-5e92-4d1b-b2ef-72af76dec65c,Javier Domínguez-Tejera,33,Badajoz,"C. Plinio Canet 7 Apt. 67 
+Jaén, 98193",Loreto,+34721 711 840,D
+a81662d8-e2bb-4687-ab4b-170fbbed11a3,Adelina Falcón Gual,35,Asturias,"Urbanización Lucio Arcos 7
+Melilla, 32541",Tumbes,+34 729924233,D
+91fec6b7-b519-4795-9dc7-1bd4fa298e67,Soledad Reina Torres,28,Alicante,"Pasadizo de Alberto Recio 94
+Albacete, 46904",Tumbes,+34738467938,B
+50d14be0-795d-466b-8df5-d7287dea957e,Dionisia Dora Torrents Cal,19,Segovia,"Via de Severiano Garrido 73 Puerta 0 
+Santa Cruz de Tenerife, 82648",Madre de Dios,+34745 151 868,A
+6f352e33-4197-469c-91dd-d9e367623e85,Baudelio Fernandez Pacheco,53,Vizcaya,"Cañada Emilia Hervás 1
+Asturias, 69643",Ayacucho,+34 715101751,D
+461dee7d-2236-48fc-86bc-9ca0208f654e,Lorenzo Galán Cárdenas,26,Córdoba,"Vial Lilia Miralles 86 Piso 5 
+Vizcaya, 37163",Lambayeque,+34 985192314,A
+04c25d71-82a5-4bfb-adf6-e4f140d514a5,Sarita Solano Villena,22,Las Palmas,"Urbanización de Ismael Galindo 26
+Lugo, 09622",Lambayeque,+34700 748 130,A
+93a2f102-e9a6-406d-acda-2c77c0c1c46c,Pascual Chico Vargas,60,Huelva,"Vial Dorotea Bejarano 93
+Tarragona, 59758",Áncash,+34 724 63 15 44,C
+3fd5c924-7658-472d-9ddb-d13d16a767ca,Alejandra Cruz Larrea Bermúdez,22,Vizcaya,"Cuesta de Mireia Vázquez 46 Puerta 3 
+Las Palmas, 66089",Apurímac,+34712267888,C
+b1dd1397-9c98-41e3-a1e5-0677a04f98eb,Eutimio Morán Alcalá,40,Madrid,"Via de Joel Morillo 40 Puerta 9 
+Ceuta, 67889",Ucayali,+34985380525,D
+4d46aa56-d9cd-4b9c-a28c-0f5c273abb1b,Rosalina Duque,24,Sevilla,"Acceso Isabel Higueras 649
+León, 00257",Ayacucho,+34 848 556 245,B
+9234ddd7-b777-48c5-ad3d-3ef6e4d6412e,Marcelino Rivera Valverde,52,Ourense,"Callejón Rosenda Diez 439 Piso 4 
+Guadalajara, 03846",Madre de Dios,+34700639169,B
+3c77f643-154f-4d99-89ca-237a5d089358,Cayetana Vera Bru,22,Lleida,"Acceso Pablo Garmendia 9
+Zaragoza, 67032",San Martín,+34 717 03 09 87,A
+71feee9e-4697-437d-965a-1b7d1de44ace,Hipólito Porcel Palomar,58,Albacete,"Callejón de Carmina Busquets 98
+Soria, 27344",Ucayali,+34 739 09 04 41,A
+1c205987-86ee-4af2-ad14-dffd90a8a7b9,Donato Azorin-Mulet,25,Cádiz,"Callejón Telmo Vicente 68
+Cáceres, 11607",Huancavelica,+34669 327 843,C
+d190a697-e17a-4515-aa49-3feed4eb3200,Susana Múgica,21,Córdoba,"Paseo Josefina Ribera 678 Puerta 8 
+Guipúzcoa, 09610",Huánuco,+34 741574704,C
+6d0a991d-8f67-426a-9d57-16f3d26dc4a1,Nazaret Arturo Dávila Vidal,58,Zaragoza,"Pasaje de Ovidio Fiol 8 Puerta 4 
+Cantabria, 63567",Huancavelica,+34 626 19 72 35,D
+c1f15254-2538-4de1-923d-c5aadd341e95,Carlota del Cortes,47,Castellón,"Cañada de Milagros Zapata 2 Piso 3 
+Zamora, 32400",Ayacucho,+34704 20 25 18,B
+221e2ee2-f577-44df-98d8-8c896d4065ab,Anna Sala Azorin,54,Burgos,"Cañada Antonia Pelayo 578
+Segovia, 43887",Apurímac,+34 607597321,A
+5c9f02fb-625f-41ce-91ba-fe87c80553ad,Lucila Vargas Torrent,20,Cuenca,"Callejón de Leopoldo Mesa 45
+Huesca, 00728",Tumbes,+34 741 432 176,B
+f77177ce-67e9-4832-af17-8494bacfc03f,Aníbal de Espada,31,Baleares,"Callejón de Jordana Acedo 64
+Tarragona, 79455",Loreto,+34930449529,B
+e0ee5812-41bb-4bcc-8ce7-768febd4b14c,Cleto Porras Rivero,33,Málaga,"Camino de Edelmiro Estévez 1
+Badajoz, 35964",Arequipa,+34 884160844,C
+109746f0-8cae-43f6-b812-f91dd65096d7,Donato Reguera Miralles,35,Asturias,"Urbanización Albano Carvajal 45
+Valencia, 83471",Lambayeque,+34739455188,C
+7c24779a-cf83-410f-bc06-13fa3219921d,Cristian Pedrero,60,Santa Cruz de Tenerife,"Calle Fabiola Portillo 54 Piso 1 
+Ávila, 34789",La Libertad,+34734 60 10 20,D
+46ba8239-bbda-43cc-ba79-dd560c726853,Evaristo Pina Artigas,28,Santa Cruz de Tenerife,"Acceso Ezequiel Perez 18
+Álava, 92051",Ica,+34898 119 001,A
+7249144e-fc75-45bb-b085-8e8b3cf908a7,Adora Arellano Uría,47,Pontevedra,"Camino de Andrés Enríquez 820 Apt. 20 
+Madrid, 98303",Apurímac,+34733 279 084,D
+899c1bfb-09bf-4ea6-8376-525abcc6bc84,Calista Álvaro-Bermudez,51,Valencia,"Urbanización Adelia Roig 84 Puerta 4 
+Huesca, 00388",Callao,+34706852585,C
+e673d0da-1d75-4336-9d78-e1ec5cde2e06,Fermín Ribas Fuentes,57,Toledo,"Alameda de Moisés Ribera 9
+Asturias, 64782",Huancavelica,+34712 165 703,A
+01eeb33f-e9ad-4271-b388-6f9a86b6cb5d,Nazario Lupe Chamorro Rueda,44,Santa Cruz de Tenerife,"Rambla Rosalía Aguirre 1 Piso 8 
+Lugo, 82523",Huancavelica,+34 808 971 051,B
+9395121a-48d5-45bb-a0a1-9c8157081811,Ariel del Alcalde,40,Guadalajara,"Cañada de Adrián Guardia 79 Piso 2 
+Córdoba, 28485",Cusco,+34712196745,D
+3c73b9d0-d1bd-420d-b708-f58d1e2bc99f,Josefa Sastre Bonet,42,Albacete,"Avenida Gracia Viña 18
+Álava, 53724",Madre de Dios,+34745 233 517,D
+cb277ec5-eec9-43f6-bf27-9e0a3f11f5a4,Tania Bastida Ballester,23,Álava,"Callejón de Ale Dominguez 205 Apt. 66 
+Sevilla, 72606",Ica,+34 690 32 50 16,D
+66ec6fec-2921-4cb1-9734-854f4f741961,Marta Giralt Castillo,54,Guipúzcoa,"Cuesta Isaac Marin 54 Apt. 60 
+Alicante, 23337",Amazonas,+34700 72 00 14,C
+43aaff4b-2103-478f-9d54-6194d8a9e3c3,Crescencia Coello,46,Huelva,"Pasadizo Rocío Silva 869
+Tarragona, 47160",Cusco,+34654 028 506,B
+a4a447f1-f7c5-413f-941e-849b19ad0173,Yolanda Balaguer Arévalo,39,Lugo,"Cuesta de Beatriz Garcia 5
+Zamora, 21644",Arequipa,+34705178718,C
+360b8a80-e873-49d2-a6f8-d5fa3266be5c,Manu Arnal Batlle,46,Barcelona,,Tacna,+34715 295 447,D
+e076bb4b-7410-4a3e-88eb-39543330b6d5,Hermenegildo Bonet Real,48,Navarra,"Vial Cornelio Paniagua 6
+Cáceres, 17065",Moquegua,+34905 95 43 63,A
+7e189161-4fd6-4f78-bb9d-f1f390093cce,Vanesa Fuentes Lillo,22,Las Palmas,"Pasaje Elba Cañizares 36 Puerta 7 
+Teruel, 90143",Puno,+34914 825 729,A
+531e96df-dbba-4b64-abcd-ec4bd4b47269,Bautista Olivera Barriga,40,Córdoba,"Rambla de Eligia Figuerola 6
+Salamanca, 84256",Piura,+34993 242 786,A
+71a5e1f9-6dd6-4a08-a406-fe0c940b65f5,Gertrudis Quiroga Ariza,44,Córdoba,"Camino Agustín Carrera 171
+Soria, 14493",Lambayeque,+34716 532 175,A
+96fd6214-d764-44aa-9336-0d0a61afcd65,Fausto Tirado,27,Santa Cruz de Tenerife,"Acceso de Elpidio Batalla 2 Piso 1 
+Las Palmas, 35373",Tumbes,+34 707 77 01 39,D
+18370180-5a11-4568-83e1-83f31fa761b8,Paca Castañeda Ferreras,51,Huelva,"Glorieta de Ángeles Correa 30 Puerta 2 
+Toledo, 40976",Áncash,+34 723 78 96 80,B
+4814bc31-463c-4ec6-8565-6ea606118178,Ricardo Miguel Ramis,44,Tarragona,"Cuesta Jovita Contreras 38 Apt. 68 
+Santa Cruz de Tenerife, 42860",Madre de Dios,+34 913 30 46 72,B
+605991cd-0ffd-4da4-81e4-4b11e8040c8c,Javi Miranda Ribera,44,Guipúzcoa,"Pasaje de Pastora Gallardo 27 Puerta 1 
+Valencia, 42956",Amazonas,+34 995551807,B
+102581f5-5dc9-4c0e-aeec-fa148c048323,Anita Benavente Valls,59,Teruel,"Rambla de Jenaro Benito 37
+Zamora, 33876",Piura,+34 728 472 034,D
+14780c71-002a-4ce5-b8d7-ba0a9eac1370,Rosa Bilbao Porta,18,Alicante,"Pasadizo Javi Ortiz 7
+Ciudad, 18508",Ayacucho,+34826272474,C
+9bfa14ea-80ef-42df-b39e-333a8f2c4900,Ema Segarra Campoy,48,Murcia,"Calle de Carina Vila 750
+Palencia, 48389",Áncash,+34 949 88 23 22,A
+021cb49c-a064-43ec-948d-0c68e53c5b22,Pepito de Ferrer,37,Cádiz,"Pasaje Sancho Crespi 80 Puerta 4 
+Sevilla, 85282",Tumbes,+34 706406723,A
+fdb94892-87c3-4fa0-90f4-9ab4986f655e,Carina de Nogués,60,Álava,"Glorieta Angelino Bellido 9
+Vizcaya, 97676",Madre de Dios,+34 712 43 68 30,D
+30099d8f-00d5-4541-b09e-272aae4cb89a,Dora Gelabert Martínez,18,Álava,"Paseo de María Pilar Cid 4 Piso 3 
+Almería, 40932",Ica,+34 875 870 937,A
+0fc43501-aca0-47fd-9002-ce0562f7933b,Albano Garcia,29,Castellón,"Avenida Nieves Aroca 55 Apt. 77 
+Cáceres, 64870",Huancavelica,+34 908 206 571,B
+bc852c0e-34fa-44dc-b7b4-3cdbe169d60d,Kike Romero Higueras,45,Valladolid,"Pasadizo de Eliana Larrañaga 75 Puerta 9 
+León, 74227",Pasco,+34724712133,D
+1ed020ab-6961-49f4-a83b-429d81effd73,Sebastián Tudela Correa,30,La Rioja,"Acceso Anabel Manuel 268
+Baleares, 15666",Amazonas,+34 806 33 23 97,B
+d64e5a99-f4e0-4a02-9de3-c0671cc9927c,Hernán Elorza Expósito,18,Alicante,"Cañada Teodoro Lillo 10 Piso 4 
+Pontevedra, 79325",Apurímac,+34 741 45 87 93,D
+7c3e12cd-42ac-4e1e-9c05-63cf2b4b14f0,Lilia Camila Arévalo Herranz,48,Ávila,"Plaza Julieta Solsona 1 Piso 0 
+La Rioja, 83669",Cusco,+34852 21 88 40,C
+c8afdef7-0007-433c-a08c-651b49f56bc5,Emiliano Cózar Cordero,56,Valencia,"Callejón Marco Catalá 53 Puerta 1 
+Badajoz, 85150",Callao,+34674 336 309,B
+31271df1-d506-43bc-89d3-635c7f888846,Estrella Lucas Amigó,43,Ciudad,"Cuesta de Concha Arregui 87
+Melilla, 29937",Ayacucho,+34 984 411 703,C
+388c5759-8463-4724-8dcf-d55c26fbc725,Juanita Vigil Casals,60,Navarra,"Pasadizo de Jenaro Palomares 52 Piso 2 
+León, 81142",Madre de Dios,+34811809353,B
+030c9304-06ce-47b9-b24d-f2bd0281c241,Perla Ojeda,60,Santa Cruz de Tenerife,"Pasaje Pastor Quevedo 5
+Valencia, 10364",Tumbes,+34 886392299,A
+01167f63-a25a-4f72-9077-8b11983e28ec,Paulino Aramburu Jiménez,52,Huelva,"Urbanización de Jafet Cuesta 8 Piso 9 
+Ciudad, 62913",Áncash,+34 738680038,B
+dbe8e194-b7a0-4b93-9f4e-d8301ded5da7,Evaristo Domingo Berenguer,60,Baleares,"Ronda de Bernabé Haro 69
+Burgos, 51836",Ica,+34610366476,A
+375cb495-bdf1-4c11-b31d-1b873d226bb2,Rosaura Calderón-Velasco,51,Burgos,"Avenida Simón Collado 39 Apt. 59 
+Guadalajara, 62904",Piura,+34717 97 06 48,A
+1a541e60-57b8-4bc5-8257-06aef41a4523,Alexandra Expósito Balaguer,44,Baleares,"Via de Gabriela Solano 2 Puerta 4 
+Valencia, 47170",Madre de Dios,+34936867216,A
+c77ec0b5-9147-4aae-9a82-778e55e00b06,Nicodemo Galo Orozco Osorio,25,Vizcaya,"Vial de Arturo Diaz 81
+Zaragoza, 57833",Cusco,+34738 380 046,A
+985de259-1a11-4956-bfec-da044921a0f5,Margarita Ayala Bas,58,Baleares,"Pasaje Cayetana Ordóñez 9 Puerta 4 
+Zaragoza, 07215",Arequipa,+34867418834,C
+d946a156-07be-4b26-bdf2-5694a6cf078c,Pacífica Reina Espinosa Conde,21,Tarragona,"Pasadizo de Teodosio Peinado 96
+Pontevedra, 51343",Huancavelica,+34849 133 863,D
+e6bf0142-bab6-4444-863a-c75884ae8558,Alex Malo Pujadas,20,Murcia,"C. de Pascual Taboada 88
+Castellón, 32508",Puno,+34 742596824,A
+d6ae9376-d14e-446f-b581-24485d623bbc,Nazaret Gras Ávila,31,Palencia,"Callejón de Sandalio Vargas 38 Apt. 66 
+Córdoba, 89299",Junín,+34 722332831,C
+ee6c7545-12a6-4abe-ad46-e66e134e47b1,Arturo Echevarría Caballero,48,Alicante,"Ronda de Belen Cerezo 7
+Huesca, 24907",Ica,+34740063597,C
+39b5d678-e33c-4e95-b454-ea725d1c5d13,Candelas Balaguer-Camino,59,Zamora,"Calle de Dominga Salamanca 60 Puerta 1 
+Valencia, 37236",Huánuco,+34725 844 948,B
+2b4a39d5-67c4-41d3-ad1b-5f8a25463bd0,Carla Mate Campo,38,Valencia,"Via Martín Marco 34 Puerta 1 
+Melilla, 81619",Lambayeque,+34701416330,D
+378339d3-5711-4cc8-9bff-9b5b5838295f,Jesús Jose Garcés Arrieta,45,Teruel,"Glorieta Valerio Giralt 69
+Valladolid, 31782",Ucayali,+34733571761,D
+03457a31-3678-4473-99cf-033b3ca5812a,Micaela Etelvina Reguera Castrillo,46,Valencia,"Urbanización Tatiana Casal 26 Puerta 9 
+Lugo, 58971",Tumbes,+34713 795 796,A
+e9626911-f6fd-41f6-86a8-b1cb3159d797,Luisina Blanco,54,Pontevedra,"Urbanización de Atilio Lopez 5
+Valencia, 53547",La Libertad,+34 864753453,D
+e5966c3a-ac65-43f8-8735-6abe638a7cf2,Anselma Molins-Laguna,39,Almería,"Camino Graciana Aguiló 92 Piso 8 
+Salamanca, 78011",Cusco,+34928 27 54 43,A
+37a845bb-7a3f-4855-a01a-942927cde49f,Óscar Higueras Teruel,26,Baleares,"Ronda Raimundo Doménech 4 Apt. 42 
+Huesca, 82709",Áncash,+34 740 227 209,A
+c0727850-3412-4250-8e1d-b59eb1994175,Dalila Puente,57,La Rioja,"Vial Violeta Zurita 29 Puerta 1 
+Ciudad, 63805",Amazonas,+34918 94 96 93,A
+8dbbaa6e-df7f-4e91-afa6-50b3ce6478e4,Reynaldo Barros,20,La Rioja,"Callejón de Albert Garzón 69 Puerta 2 
+Barcelona, 47119",Ica,+34712 14 05 51,B
+23103954-a83a-436d-8d48-43a7d98c4de3,Candela Morán-Lastra,19,León,"Plaza Estrella Borrás 12 Puerta 6 
+Girona, 23246",Apurímac,+34640 96 07 57,B
+01d090db-09b4-4021-8d26-96abd1ff6976,Rebeca Raquel Pujol Beltrán,52,Baleares,"Camino Teodosio Salamanca 684
+Albacete, 69200",Amazonas,+34929 06 53 87,A
+7a48c2e9-1968-43e3-b06d-3315bbc63549,Rico Losa,32,Santa Cruz de Tenerife,"Glorieta Eusebia Llamas 82 Puerta 1 
+Ourense, 18055",Tumbes,+34721166851,B
+4dc56dba-90d1-4e16-a52a-c59d646d2f9d,Concha Rocío Ramón Estevez,39,Zaragoza,"Paseo Lola Barbero 70
+Navarra, 15897",La Libertad,+34 682 970 211,C
+cd9730b2-ea80-469e-a752-ce0bb04b4547,Armida Morata Pavón,40,Albacete,"Urbanización de Calista Arribas 634
+Ávila, 90929",Amazonas,+34 664665688,A
+5a7d7047-362c-4dff-9e14-b64ce2f19f6b,Paola Patiño Arcos,28,Palencia,"Cañada Julie Sevillano 1
+Melilla, 19919",Callao,+34 609 217 824,A
+3ae5b89b-6e61-46a9-a36d-cd47933e0dbb,Remigio de Páez,54,Huelva,"Via Aitor Garriga 81
+Navarra, 30666",Tumbes,+34908 55 08 04,A
+25ad0887-c9fd-4875-b335-ab53e42d3752,Celso del Arnal,58,Badajoz,"Via de Leandra Montero 46
+Valladolid, 75566",Lambayeque,+34723 25 15 59,B
+2f4a8e43-9850-4422-bc02-9bdbcd16b2b4,Saturnina Salgado Prat,46,Alicante,"Camino Nereida Mateo 61 Piso 1 
+Madrid, 73354",Lima,+34 657163718,A
+ed106d96-aed4-4e44-8316-0e703514dd48,Lorenza Solera Olivares,36,Valladolid,"Cuesta Teobaldo Saldaña 10 Apt. 29 
+Toledo, 38241",Madre de Dios,+34718 954 318,A
+718750d9-7f3c-4385-a8ca-b8a2f90ebf7a,Matías Márquez,33,Jaén,"C. de Trini Suarez 49 Piso 0 
+Vizcaya, 24928",Cajamarca,+34748 33 39 55,A
+15f8fbd4-fcc1-4089-8c3c-b6d0dcc50c20,Ibán del Mora,28,Ávila,"Pasadizo Andrés Felipe Barriga 506
+Málaga, 59374",Tacna,+34 705 39 36 32,C
+87bb7e1f-2479-41c5-815a-3e38f570d7f9,Faustino Vazquez Torrijos,56,Santa Cruz de Tenerife,"Calle Augusto Aguiló 65 Puerta 0 
+León, 20937",Tumbes,+34 803063392,B
+d86d6970-faf6-4f92-978a-8366a03786f7,Nico Chico,47,Salamanca,"Calle Nerea Machado 33 Piso 1 
+La Coruña, 45669",Huancavelica,+34 964 26 01 56,A
+23f542b4-ff6b-4878-9abd-e5077a7a8cdb,Ángel Poza Isern,43,Soria,"Cañada Pedro Córdoba 21 Apt. 51 
+Ourense, 09646",Pasco,+34917 27 99 86,B
+23927039-fff9-4935-8815-3907b4b98936,Candelas Burgos Abellán,51,Ciudad,"Pasadizo de Alcides Gil 64
+La Coruña, 03189",Lambayeque,+34 805603154,B
+13879441-d4ce-42dc-a5b6-87fe56bf40ee,Regina Abella Pacheco,48,Vizcaya,"Pasaje de Emelina Conde 7
+Girona, 42310",Piura,+34 723 24 29 85,A
+d6719837-9a17-4b17-b30d-c746de80e723,Macarena de Arrieta,60,Lleida,"Acceso de Mayte Durán 87
+Guipúzcoa, 56830",Lambayeque,+34 718882265,B
+c81d7088-4e21-4d9d-97a1-c84146c0de86,Margarita Rivero Puga,29,Cáceres,"Pasaje de Julie Arroyo 7 Puerta 9 
+Girona, 73566",Piura,,A
+fc0bcb22-155e-499e-9b28-9aaba14de79c,Arturo Cepeda Feliu,20,Toledo,"Callejón Encarnación Barrio 34
+Málaga, 89852",Puno,+34 739868030,A
+44ac9404-6846-49e0-aab5-d479a156dd4e,Sofía de Vélez,55,Valladolid,"Via de Victoria Rosselló 93 Puerta 4 
+Huesca, 89784",San Martín,+34826 032 072,C
+e1d16204-8c3e-44ff-87c7-3fa5a394bfe0,Casemiro Salomón Roselló Águila,47,Zamora,"Pasadizo Natanael Gimeno 17
+Cádiz, 03242",La Libertad,+34 917 783 641,D
+72e68a97-0ca9-484c-a9ed-1c24a0ed65e0,Mireia María Dolores Cueto Blanch,23,Guipúzcoa,"C. Rodolfo Garay 25
+Cuenca, 87858",Madre de Dios,+34 722842443,C
+4a95f0a0-d03c-4089-b5f5-2f465168fa7a,Jesusa Martínez Fernández,50,Huelva,"Via Cecilia Rodrigo 5
+Córdoba, 44399",Moquegua,+34996 422 513,B
+0e1253e1-5bec-4fca-8771-61644d806e71,Haroldo Cuadrado Bonet,24,Álava,"Vial de Arturo Jordá 53
+Zamora, 05224",Ucayali,+34723 033 490,A
+e16fc4bb-cfa0-4d19-95e1-5ec1ae05f443,Espiridión Ibarra Cortina,59,Madrid,"Pasaje de Cornelio Valdés 9 Piso 8 
+Córdoba, 95158",Callao,+34701382003,C
+73b69ba4-0e2f-44e1-9270-0cfb0dba7e4b,Haroldo de Gascón,31,La Rioja,"Acceso Ariel Corbacho 95 Apt. 14 
+Vizcaya, 87933",Madre de Dios,+34 741 07 41 09,B
+a35b3945-a246-4a92-8972-48eeeb5e4921,Jacinto Montenegro-Mosquera,24,Valencia,"Urbanización de Reyna Alegria 913 Puerta 5 
+Granada, 45178",Pasco,+34 654 058 816,B
+b0a513ad-112e-4a13-85ba-60654a3f097f,Matías Tolosa Girona,33,Madrid,"C. de Mercedes Barbero 828
+Santa Cruz de Tenerife, 97028",Puno,+34 743078057,D
+88eb4e4d-10fc-4cbf-8003-49e720edc9bf,Isidro Manuel-León,56,Álava,"Camino de Anselma Clemente 71
+Madrid, 24545",Madre de Dios,+34716820629,B
+2cb34470-35f5-44ee-9222-884903ca4834,Lucio Noé Quintanilla Moles,44,La Rioja,"Glorieta Amparo Segovia 212 Apt. 23 
+Pontevedra, 44774",Cusco,+34 616 643 424,D
+aa968672-b18e-4fcb-9816-9c2811521eec,Selena Codina Solís,36,Sevilla,"Callejón de Pepita Roura 71
+Pontevedra, 99634",Callao,+34 733 394 256,C
+8221f8d8-8c59-4bab-9a62-870755d5ffcd,Remigio Tirado,44,La Rioja,"C. de Trinidad Dominguez 89
+Sevilla, 27994",Pasco,,A
+a2247962-a673-4dba-9e4a-36b80e05c399,Pastora Gelabert,30,Murcia,"Rambla Rosario Medina 21
+Las Palmas, 07391",Moquegua,+34 736 852 170,B
+3ee3d74e-8b24-4d3d-8a2c-dde0fb289eb4,Roxana Murcia León,21,Melilla,"Rambla Berto Ochoa 30 Apt. 04 
+Toledo, 83333",Junín,+34715 334 855,A
+fe9968f2-e75d-4207-8f95-c58665c46a20,Elvira Cabezas Pujol,38,Málaga,"Pasaje Daniela Torralba 365 Piso 9 
+Zaragoza, 66792",Pasco,+34729 150 167,A
+2f3e4375-5553-4d6d-a669-544704ee27e8,Hipólito de Francisco,21,Badajoz,"Camino de Luciana Tello 30 Apt. 96 
+Huesca, 04783",Lambayeque,+34 723928126,A
+6a82f569-30ac-473b-b21c-6ac7c9af85f1,Malena Frías Crespi,24,La Coruña,"Camino de Asunción Ripoll 58 Puerta 7 
+Ávila, 65547",Tacna,+34723516077,A
+9b060f78-a7c1-4667-a822-492b2aa82122,Marcio Yuste Izquierdo,55,Huesca,"Cañada de Vito Moll 65
+Madrid, 18974",La Libertad,+34726 245 149,B
+cf2f3d03-f59b-476f-9437-2833b79f0c32,Teodoro Ayuso Rosa,29,Ciudad,"Plaza Pío Bustamante 34 Apt. 56 
+Cáceres, 02851",Moquegua,+34646884183,B
+f918b431-6289-49ce-a97a-80aafad1444d,Gisela Feliu Cruz,21,Zaragoza,"Paseo Cruz Alvarez 50 Puerta 1 
+Palencia, 71075",Callao,+34723 12 32 38,C
+d315a15a-b906-4c67-96d5-cfd77ae67ec7,Candelas Rosa Pi,42,Huelva,"Pasadizo de Angelino Gracia 456
+Pontevedra, 13726",Huánuco,+34 892313996,B
+19950db3-bd09-4ebf-9bb6-540efa21058d,Calista Losa-Iriarte,49,Badajoz,"Camino de Jimena Company 9
+Cantabria, 06981",Lambayeque,+34730190399,C
+8d91af9f-24f0-46f1-a5a7-6a3c0d7a2f22,Faustino del Carreño,32,Lugo,"Calle de Socorro Guillén 4
+Cuenca, 73958",Puno,+34 732 14 28 66,C
+b1064289-4d36-4b28-981a-8b674c5f3868,Rosa Higueras Diaz,31,Almería,"Callejón Rosa María Manso 141
+Badajoz, 70596",Pasco,+34719887661,C
+c17d25c2-71fd-4dbf-9249-8d7e2b4861a5,Carla Morante Juliá,26,Cantabria,"Cañada Griselda Prat 9 Apt. 19 
+Badajoz, 73123",Puno,+34 732 53 93 82,B
+442c8c1c-0d54-4aa2-814b-db2c00d9fb0e,Perlita Cañete,29,Girona,"Via de Eleuterio Gimeno 72
+Huelva, 00362",Pasco,+34 702396618,A
+da702f30-2e12-416f-81a6-e1722e8272d0,Leticia del Bermejo,52,Ceuta,"Calle de Magdalena Valverde 43 Apt. 12 
+Valencia, 42895",San Martín,+34 922 95 86 90,D
+1ab881ab-bf5d-4038-b4a6-21c3827c4ecb,Toni Frutos-Valenzuela,32,Valencia,"Vial de Evita Torre 762 Piso 9 
+Ourense, 78896",Huánuco,+34 745 267 437,B
+1087cf3b-1c19-4cae-acda-c735572ab559,Candela del Donoso,52,Zamora,"Calle de Antonia Olmo 33
+Córdoba, 60039",Puno,+34743222508,B
